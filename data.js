@@ -1,6 +1,6 @@
 const planters = [
-  { name: "Alice", treesPlanted: 6000 },
-  { name: "Bob", treesPlanted: 4500 },
-  { name: "Carol", treesPlanted: 3500 },
-  { name: "David", treesPlanted: 2000 },
+  { name: "Alice", treesPlanted: 8000 },
+  { name: "Bob", treesPlanted: 11500 },
+  { name: "Carol", treesPlanted: 8500 },
+  { name: "David", treesPlanted: 200000 },
 ];
