@@ -3,4 +3,5 @@ const planters = [
   { name: "Bob", treesPlanted: 11500 },
   { name: "Carol", treesPlanted: 8500 },
   { name: "David", treesPlanted: 200000 },
+{name: "Carlos", treesPlanted: 56}
 ];
